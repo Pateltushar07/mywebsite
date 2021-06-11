@@ -1,0 +1,10 @@
+.card:hover .box{
+    /* filter: blur(0.5px); */
+    transform: scale(0.9);
+    /* opacity: 0.5; */
+}
+.card .box:hover{
+    /* filter: blur(0px); */
+    transform: scale(1.1);
+    /* opacity: 1; */
+}
